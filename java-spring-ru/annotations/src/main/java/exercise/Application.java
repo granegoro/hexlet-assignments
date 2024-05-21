@@ -23,7 +23,7 @@ public class Application {
                     e.printStackTrace();
                 }
 
-                System.out.println("Method " + method.getName() +" returns a value of type "
+                System.out.println("Method " + method.getName() + " returns a value of type "
                         + method.getAnnotatedReturnType() + ".");
 
             }
